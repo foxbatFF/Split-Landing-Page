@@ -1,5 +1,5 @@
-# Split-Landing-Page
-Simple Split Landing Page Making!
+# Split Landing Page
+Entry Level - Split Landing Page
 
 ![Ekran Görüntüsü (164)](https://user-images.githubusercontent.com/121855406/214602233-92a09e6c-4c71-45c9-b862-e52c749c289f.png)
 
